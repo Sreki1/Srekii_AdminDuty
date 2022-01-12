@@ -1,6 +1,6 @@
 Config = {}
 
--- NotW4018 <3
+-- Srekii <3
 
 -- STA TI NE TREBA OD GRUPA PROMENI
 Config.SeeOwnLabel = true
