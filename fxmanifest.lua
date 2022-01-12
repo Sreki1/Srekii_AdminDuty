@@ -1,7 +1,7 @@
 fx_version 'adamant'
 games {'common'}
 
--- sokac_admintag
+-- Srekii
 
 client_scripts {
     'config/config.lua',
